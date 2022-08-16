@@ -1,4 +1,3 @@
-from csv import Dialect
 
 # way no 1 
 file =open("python-snippets/Topics_to_learn.txt" ,mode='r')

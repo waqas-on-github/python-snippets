@@ -8,12 +8,6 @@
 #  NOTE REF01 --> you can mention data type in two ways 1: optional parameter or mention data type 
 # TPICS COVERD 
 
-
-
-
-from ast import arguments
-
-
 class Item:
 
     # class attribute  
@@ -50,6 +44,7 @@ print(Item.all)
 # We can read all instances data by just loopin on item.all
 for instance in Item.all:
     print(instance.name)
+
 
 
 
